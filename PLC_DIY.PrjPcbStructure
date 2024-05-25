@@ -1,1 +1,10 @@
 Record=TopLevelDocument|FileName=PLC_DIY.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=PLC_DIY.SchDoc|Designator=U_A_INPUT|SchDesignator=U_A_INPUT|FileName=A_INPUT.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=A_INPUT.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PLC_DIY.SchDoc|Designator=U_A_OUTPUT|SchDesignator=U_A_OUTPUT|FileName=A_OUTPUT.SchDoc|SheetNumber=8|SymbolType=Normal|RawFileName=A_OUTPUT.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PLC_DIY.SchDoc|Designator=U_D_INPUT|SchDesignator=U_D_INPUT|FileName=D_INPUT.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=D_INPUT.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PLC_DIY.SchDoc|Designator=U_D_OUTPUT|SchDesignator=U_D_OUTPUT|FileName=D_OUTPUT.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=D_OUTPUT.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PLC_DIY.SchDoc|Designator=U_RS232|SchDesignator=U_RS232|FileName=RS232.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=RS232.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PLC_DIY.SchDoc|Designator=U_RS485|SchDesignator=U_RS485|FileName=RS485.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=RS485.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PLC_DIY.SchDoc|Designator=U_WIFI|SchDesignator=U_WIFI|FileName=WIFI.SchDoc|SheetNumber=7|SymbolType=Normal|RawFileName=WIFI.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=PLC_DIY.SchDoc|FileName=KHOI_NGUON.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=PLC_DIY.SchDoc|FileName=PWM_OUTPUT.SchDoc|SheetNumber=9
